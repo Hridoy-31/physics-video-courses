@@ -18,5 +18,5 @@ Courses
 
 ### Introduction to Physics
 
-- [Fundamentals of Physics 1 - Ramamurti Shankar - Yale University](https://www.youtube.com/playlist?list=PLFE3074A4CB751B2B)
-- [Fundamentals of Physics 2 - Ramamurti Shankar - Yale University](https://www.youtube.com/playlist?list=PLD07B2225BB40E582)
+- [PHYS 200 - Fundamentals of Physics 1 - Fall 2006 - Ramamurti Shankar - Yale University](https://www.youtube.com/playlist?list=PLFE3074A4CB751B2B)
+- [PHYS 201 - Fundamentals of Physics 2 - Spring 2010 - Ramamurti Shankar - Yale University](https://www.youtube.com/playlist?list=PLD07B2225BB40E582)
