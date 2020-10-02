@@ -3,7 +3,7 @@
 **Introduction**
 
 - Please check [NOTES](https://github.com/Hridoy-31/physics-video-courses/blob/main/NOTES.md) for general information about this list.
-- Please refer [CONTRIBUTING.md](https://github.com/Hridoy-31/physics-video-courses/blob/main/CONTRIBUTING.md) for contribution guidelines.
+- Please refer [CONTRIBUTING](https://github.com/Hridoy-31/physics-video-courses/blob/main/CONTRIBUTING.md) for contribution guidelines.
 ------------------------------
 
 Table of Contents
