@@ -20,4 +20,7 @@ Courses
 
 - [PHYS 200 - Fundamentals of Physics 1 - Fall 2006 - Ramamurti Shankar - Yale University](https://www.youtube.com/playlist?list=PLFE3074A4CB751B2B)
 - [PHYS 201 - Fundamentals of Physics 2 - Spring 2010 - Ramamurti Shankar - Yale University](https://www.youtube.com/playlist?list=PLD07B2225BB40E582)
-- [Physics 10 - Physics for Future Presidents - Spring 2006 - Richard Muller - UC Berkeley](https://www.youtube.com/playlist?list=PLDGjfpzzwYX4NwbQThgezgAM76JrLU5wK)
+- [Physics 10 - Physics for Future Presidents - Spring 2006 - Richard Muller - 
+University of California, Berkeley](https://www.youtube.com/playlist?list=PLDGjfpzzwYX4NwbQThgezgAM76JrLU5wK)
+- [Physics 210 - General Physics I (Algebra-based Mechanics) - Robert Riggs - 
+University of Missouri - Kansas City](https://www.youtube.com/playlist?list=PL01771E7CE99097F8)
