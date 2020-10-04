@@ -24,3 +24,6 @@ Courses
 University of California, Berkeley](https://www.youtube.com/playlist?list=PLDGjfpzzwYX4NwbQThgezgAM76JrLU5wK)
 - [Physics 210 - General Physics I (Algebra-based Mechanics) - Robert Riggs - 
 University of Missouri - Kansas City](https://www.youtube.com/playlist?list=PL01771E7CE99097F8)
+- [Physics 220 - General Physics II (Algebra-based Electricity and Magnetism) - Spring 2010 - Robert Riggs - University of Missouri - Kansas City](https://www.youtube.com/playlist?list=PL1F7BEC0353D9356E)
+- [Physics 240 - Physics for Science and Engineering I (Calculus-based Mechanics) - Jerzy Wrobel - University of Missouri - Kansas City](https://www.youtube.com/playlist?list=PLEEB9EC9DD59D6D85)
+- [Physics 250 - Physics for Science and Engineering II (Calculus-based Electricity and Magnetism) - Jerzy Wrobel - University of Missouri - Kansas City](https://www.youtube.com/playlist?list=PL9BE91ADC4DF6F177)
