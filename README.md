@@ -12,6 +12,7 @@ Table of Contents
 
 - [Introduction to Physics](#introduction-to-physics)
 - [Classical Mechanics](#classical-mechanics)
+- [Classical Electrodynamics](#classical-electrodynamics)
 
 
 Courses
@@ -28,6 +29,7 @@ University of Missouri - Kansas City](https://www.youtube.com/playlist?list=PL01
 - [Physics 220 - General Physics II (Algebra-based Electricity and Magnetism) - Spring 2010 - Robert Riggs - University of Missouri - Kansas City](https://www.youtube.com/playlist?list=PL1F7BEC0353D9356E)
 - [Physics 240 - Physics for Science and Engineering I (Calculus-based Mechanics) - Jerzy Wrobel - University of Missouri - Kansas City](https://www.youtube.com/playlist?list=PLEEB9EC9DD59D6D85)
 - [Physics 250 - Physics for Science and Engineering II (Calculus-based Electricity and Magnetism) - Jerzy Wrobel - University of Missouri - Kansas City](https://www.youtube.com/playlist?list=PL9BE91ADC4DF6F177)
+- [Calculus-based Introductory Physics II: Electricity and Magnetism - Chandralekha Singh - University of Pittsburgh](https://www.youtube.com/playlist?list=PLuCeHIGJ8VQDEe2zBNkV0xdkNdtEEhulu)
 
 ------
 
@@ -37,3 +39,11 @@ University of Missouri - Kansas City](https://www.youtube.com/playlist?list=PL01
 - [Classical Mechanics - Fall 2007 - Leonard Susskind - Stanford University](https://www.youtube.com/playlist?list=PL189C0DCE90CB6D81)
 - [Classical Mechanics - Fall 2011 - Leonard Susskind - Stanford University](https://www.youtube.com/playlist?list=PL47F408D36D4CF129)
 - [Classical Physics - Balakrishnan - Indian Institute of Technology, Madras](https://www.youtube.com/playlist?list=PL4buDdUD7fvg4MZcf1csOrwFO1FDAMokt)
+- [TFY 4345 - Classical Mechanics - Spring 2012 - Jacob Linder - Norwegian University of Science and Technology](https://www.youtube.com/playlist?list=PLUHTGp7T4Zn_FU64InC0C8ZsejaxMtO3s)
+- [PH 1121 - Classical Mechanics - Bruce Denardo - Naval Postgraduate School, California](https://www.youtube.com/playlist?list=PL6LNFNTCXeCaDAxx7lxcS4yEK3qFPNvD1)
+
+------
+
+### Classical Electrodynamics
+
+- [8.02 Physics II - Electricity and Magnetism - Spring 2002 - Walter Lewin - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PLUdYlQf0_sSsfcNOPSNPQKHDhSjTJATPu)
