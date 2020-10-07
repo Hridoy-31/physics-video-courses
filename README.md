@@ -12,7 +12,11 @@ Table of Contents
 
 - [Introduction to Physics](#introduction-to-physics)
 - [Classical Mechanics](#classical-mechanics)
+- [Statistical Mechanics](#statistical-mechanics)
+- [Atomic Physics](#atomic-physics)
 - [Classical Electrodynamics](#classical-electrodynamics)
+- [Quantum Mechanics](#quantum-mechanics)
+- [Astrophysics](#astrophysics)
 
 
 Courses
@@ -30,6 +34,8 @@ University of Missouri - Kansas City](https://www.youtube.com/playlist?list=PL01
 - [Physics 240 - Physics for Science and Engineering I (Calculus-based Mechanics) - Jerzy Wrobel - University of Missouri - Kansas City](https://www.youtube.com/playlist?list=PLEEB9EC9DD59D6D85)
 - [Physics 250 - Physics for Science and Engineering II (Calculus-based Electricity and Magnetism) - Jerzy Wrobel - University of Missouri - Kansas City](https://www.youtube.com/playlist?list=PL9BE91ADC4DF6F177)
 - [Calculus-based Introductory Physics II: Electricity and Magnetism - Chandralekha Singh - University of Pittsburgh](https://www.youtube.com/playlist?list=PLuCeHIGJ8VQDEe2zBNkV0xdkNdtEEhulu)
+- [8.03 Physics III - Vibrations and Waves - Fall 2004 - Walter Lewin - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PLUdYlQf0_sSsdOhQ_8jfrAGzbGbJ7MXGe)
+- [8.03SC Physics III - Vibrations and Waves - Fall 2016 - Yen-Jie Lee - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PLUl4u3cNGP61R5sPDPKVfcFlu95wSs2Kx)
 
 ------
 
@@ -44,6 +50,37 @@ University of Missouri - Kansas City](https://www.youtube.com/playlist?list=PL01
 
 ------
 
+### Statistical Mechanics
+
+- [8.333 - Statistical Mechanics I: Statistical Mechanics of Particles - Fall 2013 - Mehran Kardar - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg)
+- [8.334 - Statistical Mechanics II: Statistical Physics of Fields - Spring 2014 - Mehran Kardar - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PLUl4u3cNGP63HkEHvYaNJiO0UCUmY0Ts7)
+
+------
+
+### Atomic Physics
+
+- [8.421 - Atomic and Optical Physics I - Spring 2014 - Wolfgang Ketterle - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PLUl4u3cNGP62FPGcyFJkzhqq9c5cHCK32)
+- [8.422 - Atomic and Optical Physics II - Spring 2013 - Wolfgang Ketterle - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PLUl4u3cNGP62uOSArqLf4vNLiZtgIRm1K)
+
+------
+
 ### Classical Electrodynamics
 
 - [8.02 Physics II - Electricity and Magnetism - Spring 2002 - Walter Lewin - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PLUdYlQf0_sSsfcNOPSNPQKHDhSjTJATPu)
+
+------
+
+### Quantum Mechanics
+
+- [8.04 - Quantum Physics I - Spring 2016 - Barton Zwiebach - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G)
+- [8.04 - Quantum Physics I - Spring 2013 - Allan Adams, Matthew Evans and Barton Zwiebach - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PLUl4u3cNGP61-9PEhRognw5vryrSEVLPr)
+- [8.05 - Quantum Physics II - Fall 2013 - Barton Zwiebach - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PLUl4u3cNGP60QlYNsy52fctVBOlk-4lYx)
+- [8.06 - Quantum Physics III - Spring 2018 - Barton Zwiebach - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PLUl4u3cNGP60Zcz8LnCDFI8RPqRhJbb4L)
+
+------
+
+### Astrophysics
+
+- [8.224 - Exploring Black Holes: General Relativity and Astrophysics - Spring 2003 - Edmund Bertschinger and Edwin Taylor - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PL858478F1EC364A2C)
+- [8.286 - The Early Universe - Fall 2013 - Alan Guth - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Bf9I0WDDriuDqEnywoxra)
+- [8.821 - String Theory and Holographic Duality - Fall 2014 - Hong Liu - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PLUl4u3cNGP633VWvZh23bP6dG80gW34SU)
