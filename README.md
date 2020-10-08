@@ -17,6 +17,7 @@ Table of Contents
 - [Classical Electrodynamics](#classical-electrodynamics)
 - [Quantum Mechanics](#quantum-mechanics)
 - [Astrophysics](#astrophysics)
+- [Particle Physics](#particle-physics)
 
 
 Courses
@@ -67,6 +68,7 @@ University of Missouri - Kansas City](https://www.youtube.com/playlist?list=PL01
 ### Classical Electrodynamics
 
 - [8.02 Physics II - Electricity and Magnetism - Spring 2002 - Walter Lewin - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PLUdYlQf0_sSsfcNOPSNPQKHDhSjTJATPu)
+- [2.71 - Optics - Spring 2009 - George Barbastathis, Colin Sheppard and Se Baek Oh - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PLEA084AC2DD3CEC09)
 
 ------
 
@@ -84,3 +86,10 @@ University of Missouri - Kansas City](https://www.youtube.com/playlist?list=PL01
 - [8.224 - Exploring Black Holes: General Relativity and Astrophysics - Spring 2003 - Edmund Bertschinger and Edwin Taylor - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PL858478F1EC364A2C)
 - [8.286 - The Early Universe - Fall 2013 - Alan Guth - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Bf9I0WDDriuDqEnywoxra)
 - [8.821 - String Theory and Holographic Duality - Fall 2014 - Hong Liu - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PLUl4u3cNGP633VWvZh23bP6dG80gW34SU)
+
+------
+
+### Particle Physics
+
+- [8.851 - Effective Field Theory - Spring 2013 - Iain Stewart - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PLUl4u3cNGP60TvpbO5toEWC8y8w51dtvm)
+
