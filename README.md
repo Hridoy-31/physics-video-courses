@@ -93,3 +93,7 @@ University of Missouri - Kansas City](https://www.youtube.com/playlist?list=PL01
 
 - [8.851 - Effective Field Theory - Spring 2013 - Iain Stewart - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PLUl4u3cNGP60TvpbO5toEWC8y8w51dtvm)
 
+
+### Stargazers take Love :heartpulse:
+
+[![Stargazers](https://reporoster.com/stars/Hridoy-31/physics-video-courses)](https://github.com/Hridoy-31/physics-video-courses/stargazers)
