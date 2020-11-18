@@ -69,6 +69,7 @@ University of Missouri - Kansas City](https://www.youtube.com/playlist?list=PL01
 
 - [8.02 Physics II - Electricity and Magnetism - Spring 2002 - Walter Lewin - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PLUdYlQf0_sSsfcNOPSNPQKHDhSjTJATPu)
 - [2.71 - Optics - Spring 2009 - George Barbastathis, Colin Sheppard and Se Baek Oh - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PLEA084AC2DD3CEC09)
+- [Res.6-001 Electromagnetic Fields and Energy - Spring 2008 - Hermann Haus, James Melcher, Markus Zahn, Manuel Silva - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PLDnsZq6RHq0dQB9V0ovOuiRY1f1IbhghX)
 
 ------
 
