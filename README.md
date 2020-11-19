@@ -82,6 +82,7 @@ University of Missouri - Kansas City](https://www.youtube.com/playlist?list=PL01
 - [8.06 - Quantum Physics III - Spring 2018 - Barton Zwiebach - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PLUl4u3cNGP60Zcz8LnCDFI8RPqRhJbb4L)
 - [Quantum Mechanics - Winter 2008 - Leonard Susskind - Stanford University](https://www.youtube.com/playlist?list=PL84C10A9CB1D13841)
 - [Quantum Mechanics - Winter 2012 - Leonard Susskind - Stanford University](https://www.youtube.com/playlist?list=PL701CD168D02FF56F)
+- [Advanced Quantum Mechanics - Fall 2013 - Leonard Susskind - Stanford University](https://www.youtube.com/playlist?list=PLpGHT1n4-mAsmMxmSX0LCaXIXT2PmU85m)
 
 ------
 
