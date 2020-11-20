@@ -16,6 +16,7 @@ Table of Contents
 - [Atomic Physics](#atomic-physics)
 - [Classical Electrodynamics](#classical-electrodynamics)
 - [Quantum Mechanics](#quantum-mechanics)
+- [Relativity](#relativity)
 - [Astrophysics](#astrophysics)
 - [Particle Physics](#particle-physics)
 
@@ -86,6 +87,15 @@ University of Missouri - Kansas City](https://www.youtube.com/playlist?list=PL01
 
 ------
 
+### Relativity
+
+- [Special Relativity and Electrodynamics - Spring 2008 - Leonard Susskind - Stanford University](https://www.youtube.com/playlist?list=PLCCD6C043FEC59772)
+- [Special Relativity and Electrodynamics - Spring 2012 - Leonard Susskind - Stanford University](https://www.youtube.com/playlist?list=PLD9DDFBDC338226CA)
+- [Einstein's General Theory of Relativity - Fall 2008 - Leonard Susskind - Stanford University](https://www.youtube.com/playlist?list=PL6C8BDEEBA6BDC78D)
+- [General Relativity - Fall 2012 - Leonard Susskind - Stanford University](https://www.youtube.com/playlist?list=PLpGHT1n4-mAvcXwzOIz3dHnGZaQP1LEib)
+
+------
+
 ### Astrophysics
 
 - [8.224 - Exploring Black Holes: General Relativity and Astrophysics - Spring 2003 - Edmund Bertschinger and Edwin Taylor - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PL858478F1EC364A2C)
@@ -98,6 +108,7 @@ University of Missouri - Kansas City](https://www.youtube.com/playlist?list=PL01
 
 - [8.851 - Effective Field Theory - Spring 2013 - Iain Stewart - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PLUl4u3cNGP60TvpbO5toEWC8y8w51dtvm)
 
+------
 
 ### Stargazers take Love :heartpulse:
 
