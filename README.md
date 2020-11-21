@@ -56,6 +56,8 @@ University of Missouri - Kansas City](https://www.youtube.com/playlist?list=PL01
 
 - [8.333 - Statistical Mechanics I: Statistical Mechanics of Particles - Fall 2013 - Mehran Kardar - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg)
 - [8.334 - Statistical Mechanics II: Statistical Physics of Fields - Spring 2014 - Mehran Kardar - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PLUl4u3cNGP63HkEHvYaNJiO0UCUmY0Ts7)
+- [Statistical Mechanics - Spring 2009 - Leonard Susskind - Stanford University](https://www.youtube.com/playlist?list=PLB72416C707D85AB0)
+- [Statistical Mechanics - Spring 2013 - Leonard Susskind - Stanford University](https://www.youtube.com/playlist?list=PLXLSbKIMm0kjxyp45FIY62XNgHk4ywSaH)
 
 ------
 
