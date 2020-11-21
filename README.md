@@ -101,6 +101,8 @@ University of Missouri - Kansas City](https://www.youtube.com/playlist?list=PL01
 - [8.224 - Exploring Black Holes: General Relativity and Astrophysics - Spring 2003 - Edmund Bertschinger and Edwin Taylor - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PL858478F1EC364A2C)
 - [8.286 - The Early Universe - Fall 2013 - Alan Guth - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Bf9I0WDDriuDqEnywoxra)
 - [8.821 - String Theory and Holographic Duality - Fall 2014 - Hong Liu - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PLUl4u3cNGP633VWvZh23bP6dG80gW34SU)
+- [Cosmology - Winter 2009 - Leonard Susskind - Stanford University](https://www.youtube.com/playlist?list=PL888811AA667C942F)
+- [Cosmology - Winter 2013 - Leonard Susskind - Stanford University](https://www.youtube.com/playlist?list=PLvh0vlLitZ7c8Avsn6gUaWX05uD5cedO-)
 
 ------
 
