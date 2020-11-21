@@ -111,6 +111,10 @@ University of Missouri - Kansas City](https://www.youtube.com/playlist?list=PL01
 ### Particle Physics
 
 - [8.851 - Effective Field Theory - Spring 2013 - Iain Stewart - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PLUl4u3cNGP60TvpbO5toEWC8y8w51dtvm)
+- [Particle Physics 1: Basic Concepts - Fall 2009 - Leonard Susskind - Stanford University](https://www.youtube.com/playlist?list=PL768E1383EA79C603)
+- [Particle Physics 2: Standard Model - Winter 2010 - Leonard Susskind - Stanford University](https://www.youtube.com/playlist?list=PL0783FE23212A3796)
+- [Particle Physics 3: Supersymmetry and Grand Unification - Spring 2010 - Leonard Susskind - Stanford University](https://www.youtube.com/playlist?list=PLpi18tMShZSBKLugjxRsN8U5MmILu1nBo)
+
 
 ------
 
