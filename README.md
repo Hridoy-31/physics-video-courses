@@ -105,6 +105,8 @@ University of Missouri - Kansas City](https://www.youtube.com/playlist?list=PL01
 - [8.821 - String Theory and Holographic Duality - Fall 2014 - Hong Liu - Massachusetts Institute of Technology](https://www.youtube.com/playlist?list=PLUl4u3cNGP633VWvZh23bP6dG80gW34SU)
 - [Cosmology - Winter 2009 - Leonard Susskind - Stanford University](https://www.youtube.com/playlist?list=PL888811AA667C942F)
 - [Cosmology - Winter 2013 - Leonard Susskind - Stanford University](https://www.youtube.com/playlist?list=PLvh0vlLitZ7c8Avsn6gUaWX05uD5cedO-)
+- [String Theory and M-Theory - Fall 2010 - Leonard Susskind - Stanford University](https://www.youtube.com/playlist?list=PLA2FDCCBC7956448F)
+- [Topics in String Theory (Cosmology and Black Holes) - Winter 2011 - Leonard Susskind - Stanford University](https://www.youtube.com/playlist?list=PL3E633552E58EB230)
 
 ------
 
