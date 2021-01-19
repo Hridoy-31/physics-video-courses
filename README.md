@@ -86,6 +86,7 @@ University of Missouri - Kansas City](https://www.youtube.com/playlist?list=PL01
 - [Quantum Mechanics - Winter 2008 - Leonard Susskind - Stanford University](https://www.youtube.com/playlist?list=PL84C10A9CB1D13841)
 - [Quantum Mechanics - Winter 2012 - Leonard Susskind - Stanford University](https://www.youtube.com/playlist?list=PL701CD168D02FF56F)
 - [Advanced Quantum Mechanics - Fall 2013 - Leonard Susskind - Stanford University](https://www.youtube.com/playlist?list=PLpGHT1n4-mAsmMxmSX0LCaXIXT2PmU85m)
+- [Quantum Entanglements Part 1 - Fall 2006 - Leonard Susskind - Stanford University](https://www.youtube.com/playlist?list=PLA27CEA1B8B27EB67)
 
 ------
 
@@ -95,6 +96,7 @@ University of Missouri - Kansas City](https://www.youtube.com/playlist?list=PL01
 - [Special Relativity and Electrodynamics - Spring 2012 - Leonard Susskind - Stanford University](https://www.youtube.com/playlist?list=PLD9DDFBDC338226CA)
 - [Einstein's General Theory of Relativity - Fall 2008 - Leonard Susskind - Stanford University](https://www.youtube.com/playlist?list=PL6C8BDEEBA6BDC78D)
 - [General Relativity - Fall 2012 - Leonard Susskind - Stanford University](https://www.youtube.com/playlist?list=PLpGHT1n4-mAvcXwzOIz3dHnGZaQP1LEib)
+- [Relativity - Spring 2007 - Leonard Susskind - Stanford University](https://www.youtube.com/playlist?list=PL5F9D6DB4231291BE)
 
 ------
 
@@ -107,6 +109,7 @@ University of Missouri - Kansas City](https://www.youtube.com/playlist?list=PL01
 - [Cosmology - Winter 2013 - Leonard Susskind - Stanford University](https://www.youtube.com/playlist?list=PLvh0vlLitZ7c8Avsn6gUaWX05uD5cedO-)
 - [String Theory and M-Theory - Fall 2010 - Leonard Susskind - Stanford University](https://www.youtube.com/playlist?list=PLA2FDCCBC7956448F)
 - [Topics in String Theory (Cosmology and Black Holes) - Winter 2011 - Leonard Susskind - Stanford University](https://www.youtube.com/playlist?list=PL3E633552E58EB230)
+- [ASTR 160 - Frontiers and Controversies in Astrophysics - Spring 2007 - Charles Bailyn - Yale University](https://www.youtube.com/playlist?list=PLD1515420F4E601A4)
 
 ------
 
