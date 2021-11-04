@@ -87,6 +87,7 @@ University of Missouri - Kansas City](https://www.youtube.com/playlist?list=PL01
 - [Quantum Mechanics - Winter 2012 - Leonard Susskind - Stanford University](https://www.youtube.com/playlist?list=PL701CD168D02FF56F)
 - [Advanced Quantum Mechanics - Fall 2013 - Leonard Susskind - Stanford University](https://www.youtube.com/playlist?list=PLpGHT1n4-mAsmMxmSX0LCaXIXT2PmU85m)
 - [Quantum Entanglements Part 1 - Fall 2006 - Leonard Susskind - Stanford University](https://www.youtube.com/playlist?list=PLA27CEA1B8B27EB67)
+- [Quantum Mechanics - James Binney - University of Oxford](https://www.youtube.com/playlist?list=PLB3CF07ACB3DBC849)
 
 ------
 
